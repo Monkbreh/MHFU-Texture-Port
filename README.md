@@ -20,7 +20,8 @@ Languages and button layouts are included.
 
 **Button Layouts** :
 
-![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/1c626c51-9525-4be7-8aa1-0f543edb8902)
+![293138017-1c626c51-9525-4be7-8aa1-0f543edb8902](https://github.com/Monkbreh/MHFU-iOS-Gui-Texture-Port/assets/118343447/6ccb4b04-4df3-49cf-bc62-2aa5ebf65dbd)
+
 
 
 
