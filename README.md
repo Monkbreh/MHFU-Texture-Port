@@ -1,9 +1,9 @@
 # MHFU-iOS-Gui-Texture-Port
 Ports the gui textures from the iOS release of mhfu to the psp release
 
-I ripped the textures along time ago and had them a for awhile so i just decided to just port it over.
+I ripped the textures along time ago and had them a for awhile so i decided to just port them over. (I was probably lazy cause the textures had horrible atrificating for some reason)
 
-Includes languages and button layouts
+Languages and button layouts are included.
 
 ![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/f52c50b0-33a8-4488-9955-8fb7b5704a2d)
 ![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/ef841d91-5b4f-4f4c-96f7-74ef6e6626f3)
@@ -18,7 +18,7 @@ Includes languages and button layouts
 ![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/e216329d-52f3-4396-bcb9-24be62002337)
 
 
-Button Layouts:
+**Button Layouts** :
 
 ![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/1c626c51-9525-4be7-8aa1-0f543edb8902)
 
