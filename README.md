@@ -18,8 +18,9 @@ Different Layouts:
 
 ![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/e315828c-3654-449b-ae14-d46fc9060297)
 
-![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/21401336-c6bc-4a38-9f41-802f3cdac77c)
-![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/00f0e312-0467-4af0-b4d7-b491b72e170b)
+![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/8e6ef01b-5222-4299-b0b5-f6630e64dd0f)
+![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/e216329d-52f3-4396-bcb9-24be62002337)
+
 
 
 
