@@ -1,3 +1,0 @@
-Remove the brackets before placing the layout in the UI folder
-
-Example: QuestBar_ger(N) > QuestBar_ger
