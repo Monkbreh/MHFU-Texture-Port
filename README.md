@@ -16,5 +16,6 @@ Supports all languages and button layouts (Xbox,PS and Nintendo)
 
 Different Layouts:
 
-![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/c2054e47-7faa-4e6e-99cf-6f2848db2f27)
+![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/1c626c51-9525-4be7-8aa1-0f543edb8902)
+
 
