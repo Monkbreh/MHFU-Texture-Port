@@ -12,7 +12,7 @@ Languages and button layouts are included.
 
 ![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/11fa87b2-d1b7-4a8f-9161-41f324a7d48e)
 
-![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/e1ce4b65-4841-4a63-a7ff-b175a1f15fe6)
+![image](https://github.com/Monkbreh/MHFU-iOS-Gui-Texture-Port/assets/118343447/d3cd1d34-3d9e-4328-b754-cb06a7ee88fa)
 
 ![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/8e6ef01b-5222-4299-b0b5-f6630e64dd0f)
 ![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/e216329d-52f3-4396-bcb9-24be62002337)
