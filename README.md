@@ -3,7 +3,7 @@ Ports higher res UI and Asset textures from the iOS release of mhfu to the psp r
 
 I ripped the textures along time ago and had them a for awhile so i decided to just port them over. ~~I was probably lazy cause the textures had some artifacting that needed fixing~~
 
-This pack is incomplete as i plan to port over enviroment textures as well.
+**This pack is incomplete as i plan to port over enviroment textures as well.**
 
 - Languages and button layouts are included.
 - Support for FUC
