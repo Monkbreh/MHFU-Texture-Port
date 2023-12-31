@@ -1,5 +1,5 @@
 # MHFU-iOS-Texture-Port 
-Ports higher res textures from the iOS release of mhfu to the psp release.
+Ports higher res UI and Asset textures from the iOS release of mhfu to the psp release.
 
 I ripped the textures along time ago and had them a for awhile so i decided to just port them over. ~~I was probably lazy cause the textures had some artifacting that needed fixing~~
 
