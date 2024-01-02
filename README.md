@@ -17,9 +17,6 @@ I ripped the textures along time ago and had them a for awhile so i decided to j
 
 ![image](https://github.com/Monkbreh/MHFU-iOS-Gui-Texture-Port/assets/118343447/d3cd1d34-3d9e-4328-b754-cb06a7ee88fa)
 
-![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/8e6ef01b-5222-4299-b0b5-f6630e64dd0f)
-![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/e216329d-52f3-4396-bcb9-24be62002337)
-
 
 - **Button Layouts** :
 
