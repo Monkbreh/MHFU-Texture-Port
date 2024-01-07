@@ -1,5 +1,5 @@
 # MHFU-Texture-Port 
-Ports higher res UI from the iOS release of FU and higher res Asset textures from Dos/Frontier.
+Ports higher res ui textures from the iOS release of MHFU and higher res asset textures from Frontier, Dos/G ps2 titles.
 
 **This pack is incomplete as i plan to port over enviroment textures as well.**
 
