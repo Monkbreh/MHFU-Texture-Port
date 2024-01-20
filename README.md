@@ -1,7 +1,7 @@
 # MHFU-Texture-Port 
 
 Repo for MHFU Texture Port
-- Replaces low res textures in mhfu with higher res ones from the ps2 titles dos/G/Frontier. (Mainly Dos)
+- Replaces low res textures with higher res ones from the ps2 titles dos/G/Frontier. (Mainly Dos)
 - Higher res UI textures are ported from the iOS release of mhfu
 
 **This is not an upscale project**
