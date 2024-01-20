@@ -8,6 +8,8 @@ Repo for MHFU Texture Port
 
 - Languages and button layouts are included.
 - Support for FUC
+- All map areas areas textures are replaced
+- Almost all weapons and the majority of armor sets are replaced.
 
 ![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/6dafd55a-40fa-4044-80d0-5d8fc0e11eb8)
 
