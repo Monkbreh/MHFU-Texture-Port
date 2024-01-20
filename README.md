@@ -26,11 +26,17 @@ Repo for MHFU Texture Port
 
 ![image](https://github.com/Monkbreh/MHFU-iOS-Gui-Texture-Port/assets/118343447/d3cd1d34-3d9e-4328-b754-cb06a7ee88fa)
 
-![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/78a3e715-a98c-4319-93dc-4c3ed39758a9)
+![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/7e046034-a05d-4543-88a5-52b278ec7e96)
 
-![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/7c66052e-0c86-4fc5-926a-dceb2846d261)
+![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/19c40b67-73be-475e-82f5-152c17cd8ee8)
+
+![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/cd713b8f-8e99-47f7-81ce-9a1fcd8a53fe)
+
+![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/fab90430-b8fa-4e82-8bc6-8e4d3ac32798)
 
 ![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/cbd079e5-f6bb-4884-972e-bf9d188d5867)
+
+![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/73d1d294-0671-477e-8161-2f1fd51216d6)
 
 ![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/8491d212-c437-41bd-8302-67f3d9675ee6)
 
