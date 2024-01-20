@@ -2,12 +2,19 @@
 
 Repo for MHFU Texture Port
 - Replaces low res textures in mhfu with higher res ones from the ps2 titles dos/G/Frontier. (Mainly Dos)
-- Higher res UI textures are ripped from the iOS release of mhfu
+- Higher res UI textures are ported from the iOS release of mhfu
 
 **THis is not an upscale project**
 
 - Languages and button layouts are included.
 - Support for FUC
+
+![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/6dafd55a-40fa-4044-80d0-5d8fc0e11eb8)
+
+**Some Button Layouts from the iOS** :
+
+![293138017-1c626c51-9525-4be7-8aa1-0f543edb8902](https://github.com/Monkbreh/MHFU-iOS-Gui-Texture-Port/assets/118343447/6ccb4b04-4df3-49cf-bc62-2aa5ebf65dbd)
+
 
 
 ![image](https://github.com/Monkbreh/MHFU-iOS-Texture-Port/assets/118343447/14d610ad-b24f-48b5-8c64-20e6c70fb89d)
@@ -35,9 +42,7 @@ Repo for MHFU Texture Port
 
 
 
-- **Button Layouts** :
 
-![293138017-1c626c51-9525-4be7-8aa1-0f543edb8902](https://github.com/Monkbreh/MHFU-iOS-Gui-Texture-Port/assets/118343447/6ccb4b04-4df3-49cf-bc62-2aa5ebf65dbd)
 
 
 
