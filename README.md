@@ -16,7 +16,7 @@ This is not an upscale project
 
 ![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/6dafd55a-40fa-4044-80d0-5d8fc0e11eb8)
 
-**Some Button Layouts from the iOS** :
+**Some Button Layouts** :
 
 ![293138017-1c626c51-9525-4be7-8aa1-0f543edb8902](https://github.com/Monkbreh/MHFU-iOS-Gui-Texture-Port/assets/118343447/6ccb4b04-4df3-49cf-bc62-2aa5ebf65dbd)
 
