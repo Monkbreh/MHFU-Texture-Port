@@ -2,7 +2,7 @@
 
 Repo for MHFU Texture Port
 
-This is not an upscale project
+**This is not an upscale project**
   
 
 - Replaces low res textures with higher res textures from the ps2 titles dos/G. (and frontier)
@@ -11,7 +11,7 @@ This is not an upscale project
  ################## 	     		
 - Languages and button layouts are included.
 - Support for FUC
-- All map area textures are replaced
+- All map area and monster textures are replaced. 
 - Majority of equipment textures are replaced.
 
 ![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/6dafd55a-40fa-4044-80d0-5d8fc0e11eb8)
@@ -42,7 +42,7 @@ This is not an upscale project
 
 ![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/8491d212-c437-41bd-8302-67f3d9675ee6)
 
-![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/b4b69601-125b-4db1-b683-9538330ffce5)
+![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/7db0a254-b076-46a0-9603-490b7ee68c54)
 
 ![image](https://github.com/Monkbreh/MHFU-Texture-Port/assets/118343447/9e372cc4-2893-4cf2-93d6-46fb89ab0ee6)
 
