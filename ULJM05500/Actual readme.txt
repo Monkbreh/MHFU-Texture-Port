@@ -1,0 +1,1 @@
+Copy All files from ULUS10391 except textures.ini if using FUC
